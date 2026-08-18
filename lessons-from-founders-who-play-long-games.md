@@ -3,6 +3,8 @@ title: What the founders who play the long game do differently
 category: Business Leaders
 date: "2026-07-14"
 excerpt: Patterns I've noticed watching founders who are still building the same company a decade later.
+ctaTitle: Evaluating an AI vendor?
+ctaDescription: Email us and we'll help you run the checklist together.
 ---
 
 Most founders I meet are optimizing for the next twelve months. The ones I keep learning from are optimizing for the next ten years, and it shows up in small, unglamorous decisions.

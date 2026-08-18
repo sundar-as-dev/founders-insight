@@ -3,6 +3,8 @@ title: How I think about personal runway as a bootstrapped founder
 category: Personal Finance
 date: "2026-07-05"
 excerpt: Separating the business's cash position from my own was the single most stabilizing financial decision I made.
+ctaTitle: Evaluating an IT vendor?
+ctaDescription: Email us and we'll help you run the checklist together.
 ---
 
 Bootstrapping blurs the line between personal and business finances fast, especially in year one when every rupee feels like it belongs to the same pool. Un-blurring that line turned out to matter more than any investment decision I made in the same period.

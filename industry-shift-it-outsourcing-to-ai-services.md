@@ -3,6 +3,8 @@ title: What the shift from IT outsourcing to AI services means for smaller firms
 category: Industry News
 date: "2026-08-01"
 excerpt: The IT services model that built a generation of firms is being re-priced, not replaced.
+ctaTitle: Evaluating an AI vendor?
+ctaDescription: Email us and we'll help you run the checklist together.
 ---
 
 The classic IT outsourcing pitch, cheaper headcount doing well-defined work, is getting squeezed from both directions. Clients can now get a chunk of that work done faster with AI, and the remaining work increasingly needs judgment that's hard to outsource on price alone.
