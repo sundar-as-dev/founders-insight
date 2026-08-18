@@ -5,8 +5,6 @@ date: "2026-08-08"
 excerpt: A short checklist for cutting through the noise when every vendor claims to be "AI-powered."
 ctaTitle: Evaluating an AI vendor?
 ctaDescription: Email us and we'll help you run the checklist together.
-ctaTitle: Evaluating an AI vendor?
-ctaDescription: Email us and we'll help you run the checklist together.
 ---
 
 Every vendor call this year has an AI angle. Most of the pitches sound similar, so I've settled on a short checklist that separates the useful ones from the noise quickly.
