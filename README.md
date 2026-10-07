@@ -17,6 +17,10 @@ ctaDescription: Optional line under the CTA heading.
 challenges:            # optional; shown as a table at the top of the post
   - challenge: What was broken, slow, or risky.
     solution: What we did about it.
+impact:                # optional; shown as headline number cards
+  - value: 20–30       # the figure, kept short
+    label: Bookings handled per day
+    before: 5–7        # optional; the figure it replaced
 ---
 
 Post body in markdown.

@@ -16,6 +16,13 @@ challenges:
     solution: The dashboard says which line to contact and whether to call or email.
   - challenge: Only one person on the five-member booking team could handle bookings, capping output at 5–7 a day.
     solution: All five now work bookings in parallel, handling 20–30 a day.
+impact:
+  - value: 20–30
+    label: Bookings handled per day
+    before: 5–7
+  - value: 5 of 5
+    label: Team members working bookings
+    before: 1
 ---
 
 A 25-person NVOCC headquartered in the UK, with teams in the USA, UAE, India, and Poland, ran every client and vendor conversation over email. Booking requests, shipping line quotes, document approvals, and invoices all lived in inboxes.
