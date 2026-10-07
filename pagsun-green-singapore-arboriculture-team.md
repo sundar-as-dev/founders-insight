@@ -5,6 +5,15 @@ date: "2026-08-17"
 excerpt: How a Singapore arboriculture and horticulture company, plus two independent arborists, replaced paper-based assessments with Pagsun Green.
 ctaTitle: Running tree or landscape assessments on paper?
 ctaDescription: Email us and we'll show you what Pagsun Green looks like for your crew.
+challenges:
+  - challenge: Assessments lived on paper or in whatever app each assessor preferred.
+    solution: One structured assessment format in Pagsun Green, quick to fill in the field.
+  - challenge: Two freelance arborists added two more formats into the mix.
+    solution: Freelancers onboarded after the in-house team, with access scoped per engagement.
+  - challenge: Nothing could be compared across sites or over time.
+    solution: 'The same fields every time: species, condition, risk factors, and recommended action.'
+  - challenge: Flagged hazards and recurring maintenance fell through the cracks between site visits.
+    solution: Maintenance and hazards scheduled from the same assessment record.
 ---
 
 A 15-person arboriculture and horticulture company in Singapore came to us with a familiar problem: every tree assessment lived on paper or in whatever app the assessor personally preferred that week. Two independent arborists who work with them on overflow jobs added a third and fourth format into the mix. Nothing rolled up into one place, and nothing was structured enough to compare across sites or over time.

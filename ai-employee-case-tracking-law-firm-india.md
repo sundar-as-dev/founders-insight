@@ -5,6 +5,15 @@ date: "2026-08-14"
 excerpt: An AI Employee that reads every case file and document so any partner can ask "where does this stand?" and get a real answer.
 ctaTitle: Curious what an AI Employee could handle at your firm?
 ctaDescription: Email us and we'll walk through what it looks like for your work.
+challenges:
+  - challenge: No single partner had the full picture of every active matter.
+    solution: 'An AI Employee that reads every case file, filing, and document as it''s added.'
+  - challenge: Status updates depended on whoever last touched the file remembering to share them.
+    solution: Any partner can ask where a case stands and get the current status and next step.
+  - challenge: Covering for a colleague meant time lost just getting oriented in an unfamiliar case.
+    solution: A plain overview of any matter on demand, instead of a search through a folder of PDFs.
+  - challenge: Answers about client matters had to be verifiable before anyone relied on them.
+    solution: Every answer links back to its source documents, and the AI Employee never files anything or makes legal judgments.
 ---
 
 A 12-person law firm in India runs enough active cases that no single partner has the full picture of every matter at any given time. Status updates depended on whoever last touched the file remembering to say something. We deployed an AI Employee trained on their case files, documents, and filings to close that gap.

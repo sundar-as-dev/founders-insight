@@ -5,6 +5,17 @@ date: "2026-08-10"
 excerpt: What we found when we audited the infrastructure behind a School ERP platform, and the BCP plan we built to keep it running.
 ctaTitle: Not sure your BCP plan would survive a real outage?
 ctaDescription: Email us and we'll walk through an IT estate audit with you.
+challenges:
+  - challenge: No documented plan for what happens if core infrastructure fails during a school day.
+    solution: A business continuity plan built from a full audit of the estate.
+  - challenge: Single points of failure across hosting, database, backups, DNS, and integrations that nobody had written down.
+    solution: An IT estate audit that mapped every dependency and where it could fail.
+  - challenge: A backup process had silently stopped alerting on failure.
+    solution: Backup alerting found and fixed during the audit.
+  - challenge: 'Domain and DNS renewal lived in one person''s memory.'
+    solution: Runbooks with a named owner that someone other than the founder can follow at 11 p.m.
+  - challenge: No fallback if the payment provider went down during fee collection week.
+    solution: Recovery time targets set for each scenario, with school-hours scenarios like attendance and fee collection prioritised.
 ---
 
 A School ERP SaaS company came to us with a specific worry: their platform runs attendance, fees, grading, and communication for every school on it, and they had no documented answer for what happens if a core piece of that infrastructure fails during a school day. They asked for two things — an IT estate audit, and a business continuity plan built from what it found.

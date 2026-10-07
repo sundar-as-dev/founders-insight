@@ -5,9 +5,20 @@ date: "2026-10-07"
 excerpt: How a UK-headquartered NVOCC went from 5–7 bookings a day to 20–30, by replacing inbox-driven work with one pipeline every booking moves through.
 ctaTitle: Still running bookings out of the inbox?
 ctaDescription: Email us and we'll map where your bookings get stuck today.
+challenges:
+  - challenge: Client and vendor emails landed in shared team inboxes, with no owner and no status.
+    solution: A help desk that routes shared inboxes into threads with a clear owner, status, and reply history.
+  - challenge: Nobody could see which bookings were pending, in progress, or completed.
+    solution: A custom dashboard that tracks every lead from Proposal through Invoicing.
+  - challenge: Every booking started with phone calls to shipping lines to check rates and availability.
+    solution: Live rates and container availability pulled straight from shipping line APIs.
+  - challenge: Lines without an API still had to be contacted, with no guidance on how.
+    solution: The dashboard says which line to contact and whether to call or email.
+  - challenge: Only one person on the five-member booking team could handle bookings, capping output at 5–7 a day.
+    solution: All five now work bookings in parallel, handling 20–30 a day.
 ---
 
-A 25-person NVOCC headquartered in the UK, with teams in the USA, UAE, India, and Poland, ran every client and vendor conversation over email. Booking requests, shipping line quotes, document approvals, and invoices all lived in inboxes. Nobody could say with confidence which bookings were completed, which were in progress, and which were still waiting on a client or a vendor.
+A 25-person NVOCC headquartered in the UK, with teams in the USA, UAE, India, and Poland, ran every client and vendor conversation over email. Booking requests, shipping line quotes, document approvals, and invoices all lived in inboxes.
 
 ## Why email breaks down for an NVOCC
 

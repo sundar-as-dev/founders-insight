@@ -9,9 +9,14 @@ Each post is a markdown file in this repo with frontmatter:
 ```md
 ---
 title: Post title
-category: Business & Leadership
+category: Digital Transformation   # Pagsun AI Employee | Pagsun Green | Managed IT Services | Digital Transformation
 date: "2026-08-10"
 excerpt: A one-sentence summary shown in the listing.
+ctaTitle: Optional heading for the call-to-action box.
+ctaDescription: Optional line under the CTA heading.
+challenges:            # optional; shown as a table at the top of the post
+  - challenge: What was broken, slow, or risky.
+    solution: What we did about it.
 ---
 
 Post body in markdown.
