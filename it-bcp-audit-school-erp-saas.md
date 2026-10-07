@@ -5,6 +5,7 @@ date: "2026-08-10"
 excerpt: What we found when we audited the infrastructure behind a School ERP platform, and the BCP plan we built to keep it running.
 ctaTitle: Not sure your BCP plan would survive a real outage?
 ctaDescription: Email us and we'll walk through an IT estate audit with you.
+disclaimer: This engagement covered an IT estate audit and business continuity planning only. Penetration testing, security operations (SOC) monitoring and other licensable cybersecurity services are not part of our Managed IT Services. If a client needs them, we point them to a CSA-licensed provider. Risks and gaps are described by type only, and only after they were fixed or accepted, to protect the client.
 challenges:
   - challenge: No documented plan for what happens if core infrastructure fails during a school day.
     solution: A business continuity plan built from a full audit of the estate.

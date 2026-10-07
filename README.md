@@ -14,6 +14,7 @@ date: "2026-08-10"
 excerpt: A one-sentence summary shown in the listing.
 ctaTitle: Optional heading for the call-to-action box.
 ctaDescription: Optional line under the CTA heading.
+disclaimer: Optional note shown at the end of the post. Leave out to show nothing.
 challenges:            # optional; shown as a table at the top of the post
   - challenge: What was broken, slow, or risky.
     solution: What we did about it.
