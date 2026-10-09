@@ -8,7 +8,7 @@ Every Digital Transformation case study opens and closes the same way. You only 
 
 **Fixed on every case study (never changes)**
 
-1. Category tag (Digital Transformation), title, date, "Client identity protected"
+1. Industry tag (the client's industry, e.g. Legal), title, date, "Client identity protected"
 2. **Challenge and Solution table**: 4 to 5 rows
 3. **Results block**: 2 to 4 figures, shown as Before / Now
 4. *Middle sections: from your chosen framework*

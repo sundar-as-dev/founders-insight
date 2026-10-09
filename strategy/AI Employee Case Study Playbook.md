@@ -8,7 +8,7 @@ Every AI Employee case study opens and closes the same way. You only choose the 
 
 **Fixed on every case study (never changes)**
 
-1. Category tag (Pagsun AI Employee), title, date, "Client identity protected"
+1. Industry tag (the client's industry, e.g. Legal), title, date, "Client identity protected"
 2. **Challenge and Solution table**: 4 to 5 rows
 3. **Results block**: 2 to 4 figures, shown as Projected vs. Actual
 4. *Middle sections: from your chosen framework*
