@@ -1,6 +1,6 @@
 ---
 title: An IT estate audit and business continuity plan for a School ERP SaaS provider
-category: Managed IT Services
+industry: Education SaaS
 date: "2026-08-10"
 excerpt: What we found when we audited the infrastructure behind a School ERP platform, and the BCP plan we built to keep it running.
 ctaTitle: Not sure your BCP plan would survive a real outage?

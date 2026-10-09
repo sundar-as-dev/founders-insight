@@ -1,6 +1,6 @@
 ---
 title: Moving a 25-person NVOCC from email threads to a tracked booking pipeline
-category: Digital Transformation
+industry: Logistics & Freight
 date: "2026-10-07"
 excerpt: How a UK-headquartered NVOCC went from 5–7 bookings a day to 20–30, by replacing inbox-driven work with one pipeline every booking moves through.
 ctaTitle: Still running bookings out of the inbox?

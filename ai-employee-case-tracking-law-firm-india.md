@@ -1,6 +1,6 @@
 ---
 title: How a 12-person law firm in India uses an AI Employee to track case status
-category: Pagsun AI Employee
+industry: Legal
 date: "2026-08-14"
 excerpt: An AI Employee that reads every case file and document so any partner can ask "where does this stand?" and get a real answer.
 ctaTitle: Curious what an AI Employee could handle at your firm?

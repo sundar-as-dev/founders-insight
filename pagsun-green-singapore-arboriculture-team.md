@@ -1,6 +1,6 @@
 ---
 title: Standardizing tree assessments for a 15-person arboriculture team in Singapore
-category: Pagsun Green
+industry: Arboriculture
 date: "2026-08-17"
 excerpt: How a Singapore arboriculture and horticulture company, plus two independent arborists, replaced paper-based assessments with Pagsun Green.
 ctaTitle: Running tree or landscape assessments on paper?

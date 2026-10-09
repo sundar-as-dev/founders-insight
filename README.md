@@ -9,7 +9,7 @@ Each post is a markdown file in this repo with frontmatter:
 ```md
 ---
 title: Post title
-category: Digital Transformation   # Pagsun AI Employee | Pagsun Green | Managed IT Services | Digital Transformation
+industry: Logistics & Freight   # the client's industry, shown on the post
 date: "2026-08-10"
 excerpt: A one-sentence summary shown in the listing.
 ctaTitle: Optional heading for the call-to-action box.
