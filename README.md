@@ -27,4 +27,9 @@ impact:                # optional; shown as headline number cards
 Post body in markdown.
 ```
 
+The first `challenges` entry and the first `impact` entry are the primary
+ones: the Our Works listing shows them on the case study's cover. Put the
+challenge that the headline result answers first. With no `impact`, the cover
+shows the first two challenges instead; with neither, the card has no cover.
+
 Posts published here are pulled into [pagsun.com](https://pagsun.com)'s Founder's Insight section.

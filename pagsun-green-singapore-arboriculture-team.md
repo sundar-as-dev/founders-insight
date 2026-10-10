@@ -14,6 +14,10 @@ challenges:
     solution: 'The same fields every time: species, condition, risk factors, and recommended action.'
   - challenge: Flagged hazards and recurring maintenance fell through the cracks between site visits.
     solution: Maintenance and hazards scheduled from the same assessment record.
+impact:
+  - value: 40–50
+    label: Assessments logged per week
+    before: 10–12
 ---
 
 A 15-person arboriculture and horticulture company in Singapore came to us with a familiar problem: every tree assessment lived on paper or in whatever app the assessor personally preferred that week. Two independent arborists who work with them on overflow jobs added a third and fourth format into the mix. Nothing rolled up into one place, and nothing was structured enough to compare across sites or over time.

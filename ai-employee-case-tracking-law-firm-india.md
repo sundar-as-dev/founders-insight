@@ -14,6 +14,10 @@ challenges:
     solution: A plain overview of any matter on demand, instead of a search through a folder of PDFs.
   - challenge: Answers about client matters had to be verifiable before anyone relied on them.
     solution: Every answer links back to its source documents, and the AI Employee never files anything or makes legal judgments.
+impact:
+  - value: "2"
+    label: Minutes to get briefed on a case
+    before: "30"
 ---
 
 A 12-person law firm in India runs enough active cases that no single partner has the full picture of every matter at any given time. Status updates depended on whoever last touched the file remembering to say something. We deployed an AI Employee trained on their case files, documents, and filings to close that gap.

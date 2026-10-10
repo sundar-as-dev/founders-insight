@@ -6,6 +6,8 @@ excerpt: How a UK-headquartered NVOCC went from 5–7 bookings a day to 20–30,
 ctaTitle: Still running bookings out of the inbox?
 ctaDescription: Email us and we'll map where your bookings get stuck today.
 challenges:
+  - challenge: Only one person on the five-member booking team could handle bookings, capping output at 5–7 a day.
+    solution: All five now work bookings in parallel, handling 20–30 a day.
   - challenge: Client and vendor emails landed in shared team inboxes, with no owner and no status.
     solution: A help desk that routes shared inboxes into threads with a clear owner, status, and reply history.
   - challenge: Nobody could see which bookings were pending, in progress, or completed.
@@ -14,8 +16,6 @@ challenges:
     solution: Live rates and container availability pulled straight from shipping line APIs.
   - challenge: Lines without an API still had to be contacted, with no guidance on how.
     solution: The dashboard says which line to contact and whether to call or email.
-  - challenge: Only one person on the five-member booking team could handle bookings, capping output at 5–7 a day.
-    solution: All five now work bookings in parallel, handling 20–30 a day.
 impact:
   - value: 20–30
     label: Bookings handled per day
