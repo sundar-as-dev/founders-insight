@@ -12,6 +12,7 @@ title: Post title
 industry: Logistics & Freight   # the client's industry, shown on the post
 date: "2026-08-10"
 excerpt: A one-sentence summary shown in the listing.
+featured: true          # optional; shows it on the home page
 ctaTitle: Optional heading for the call-to-action box.
 ctaDescription: Optional line under the CTA heading.
 disclaimer: Optional note shown at the end of the post. Leave out to show nothing.
@@ -26,6 +27,10 @@ impact:                # optional; shown as headline number cards
 
 Post body in markdown.
 ```
+
+Posts with `featured: true` appear in the home page's Our Works section,
+newest first, up to three. If fewer than three are marked, the newest other
+posts fill the gaps, so the section is never empty.
 
 The first `challenges` entry and the first `impact` entry are the primary
 ones: the Our Works listing shows them on the case study's cover. Put the
