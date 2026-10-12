@@ -1,9 +1,9 @@
 ---
 title: "The first 30 days after an overnight IT handover: keeping a multi-store hypermarket billing through festival season"
 industry: Retail
-date: "2025-08-12"
-excerpt: How we took over IT for a multi-store hypermarket with no documentation, rebuilt how its tills bill, and got it through a 10x festival rush and a new store opening.
-ctaTitle: If your central POS server went down tomorrow, would your tills keep billing?
+date: "2026-10-12"
+excerpt: How we took over IT for a multi-store hypermarket with no documentation, rebuilt how its POS bills, and got it through a 10x festival rush and a new store opening.
+ctaTitle: If your central POS server went down tomorrow, would your POS keep billing?
 ctaDescription: Email us and we'll help you find out before it happens.
 disclaimer: This engagement covered IT estate audit, incident recovery and managed IT operations only. Penetration testing, security operations (SOC) monitoring and other licensable cybersecurity services are not part of our Managed IT Services. If a client needs them, we point them to a CSA-licensed provider. Risks and gaps are described by type only, and only after they were fixed or accepted, to protect the client.
 challenges:
@@ -12,7 +12,7 @@ challenges:
   - challenge: No documentation of the hardware, network, software, or how billing flowed from warehouse to stores.
     solution: The whole estate mapped layer by layer in one week, then checked against live operations in the second.
   - challenge: No fallback if a store's server or network link failed during trading hours.
-    solution: Offline billing on every POS, set up with the ERP vendor, so tills keep working when the systems behind them don't.
+    solution: Offline billing on every POS, set up with the ERP vendor, so every POS keeps billing when the systems behind it don't.
   - challenge: Daily backups depended on someone running them by hand after close, and two days were missed before a storage failure.
     solution: The two missing days rebuilt and reconciled, and backups moved to a scheduled job with failure alerts and a runbook with a named owner.
   - challenge: A new store had to open in three months without inheriting the old design.
@@ -30,7 +30,7 @@ A multi-store hypermarket's IT leadership changed overnight, and the client aske
 
 ## Day one: no map
 
-Within a day it was clear nothing was written down: not how the stores connected, not how billing flowed from the warehouse to the tills, not how stock synced between locations. We set ourselves two weeks. One to rebuild the map of the estate, layer by layer: hardware, network, software, applications. One to check that map against live operations, because a wrong map is worse than none when the store is full.
+Within a day it was clear nothing was written down: not how the stores connected, not how billing flowed from the warehouse to the billing counters, not how stock synced between locations. We set ourselves two weeks. One to rebuild the map of the estate, layer by layer: hardware, network, software, applications. One to check that map against live operations, because a wrong map is worse than none when the store is full.
 
 ## The root cause, by type
 
@@ -42,9 +42,9 @@ We changed the design to three layers:
 
 1. **An edge server in every store.** Each POS bills against its own store's server, and that server syncs stock and sales with the central system on a schedule.
 2. **The network stops being a single point of failure.** If a store's link drops, it keeps trading and catches up when the link returns.
-3. **Offline billing on every POS.** Working with the ERP vendor's team, we enabled offline mode, so a till can still bill if the store's own server fails.
+3. **Offline billing on every POS.** Working with the ERP vendor's team, we enabled offline mode, so a POS can still bill if the store's own server fails.
 
-We built this in under two weeks, which meant finishing the tuning in live production: central-to-store sync, store-to-till sync, and the inter-store links. Billing across the existing stores became about ten times faster.
+We built this in under two weeks, which meant finishing the tuning in live production: central-to-store sync, store-to-POS sync, and the inter-store links. Billing across the existing stores became about ten times faster.
 
 ## The festival, and the failure we hadn't caught
 
@@ -72,6 +72,6 @@ The new hypermarket didn't inherit the old design. We architected, built and ran
 
 ## What changed
 
-The hypermarket now bills from each store, not from one central database, so a server or network fault stays a local problem instead of a queue at every till. Its IT is documented, its backups alert someone when they fail, and the next store has a design to copy.
+The hypermarket now bills from each store, not from one central database, so a server or network fault stays a local problem instead of a queue at every billing counter. Its IT is documented, its backups alert someone when they fail, and the next store has a design to copy.
 
 *Billing speed measured per bill at the POS, before and after the change. New store uptime measured over its first three months of trading.*
