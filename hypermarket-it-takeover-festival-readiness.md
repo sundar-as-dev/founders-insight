@@ -1,7 +1,7 @@
 ---
 title: "The first 30 days after an overnight IT handover: keeping a multi-store hypermarket billing through festival season"
 industry: Retail
-date: "2026-10-12"
+date: "2026-07-12"
 excerpt: How we took over IT for a multi-store hypermarket with no documentation, rebuilt how its POS bills, and got it through a 10x festival rush and a new store opening.
 ctaTitle: If your central POS server went down tomorrow, would your POS keep billing?
 ctaDescription: Email us and we'll help you find out before it happens.

@@ -1,7 +1,7 @@
 ---
 title: "6 months at 99.9% uptime: building and managing IT for a 70-person online travel company scaling to 500"
 industry: Travel & Hospitality
-date: "2025-05-10"
+date: "2026-05-10"
 excerpt: How an online travel company went from home Wi-Fi that failed most days to an office network that held 99.9% uptime while headcount grew from 70 to 300.
 ctaTitle: Is IT someone's second job at your company?
 ctaDescription: Email us and we'll show you what a month of managed IT would look like.
